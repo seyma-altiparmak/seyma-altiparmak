@@ -1,28 +1,112 @@
-<h1 align="center">Hello, I'm ALTIPARMAK</h1>
-<h3 align="center">A passionate Software Engineer / Indie Game Developer.</h3>
-
-- 🔭 I’m currently working on [Tiny Paws](https://store.steampowered.com/app/3875660/Tiny_Paws/)
-
-- 🌱 I’m currently learning **Solo Engineering**
-
-- 👯 I’m looking to collaborate on **Game Projects**
-
-- 🤝 I’m looking for help with **Unity/C#**
-
-- 💬 Ask me about **Unity, C#, Services**
-
-- 📫 How to reach me **seyma.ada.altiparmak@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/seyma-altiparmak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seyma-altiparmak/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Şeyma%20Altıparmak&fontSize=52&fontColor=ffffff&desc=Indie%20Game%20Developer%20·%20Founder%20of%20UPI%20Games%20·%20AI%20Researcher&descSize=18&descAlignY=72&animation=fadeIn" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://upigamestudio.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Currently+building+MatchIt%2B+💜;I+build+games+from+idea+to+Steam+release+🎮;2+solo-developed+games+published+on+Steam+🚀;88%25+positive+reviews+on+Tiny+Paws+⭐;Published+AI+researcher+in+medical+imaging+🔬;Unity+·+C%23+·+Python+·+Computer+Vision+·+VR" alt="Typing SVG" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyma-altiparmak&show_icons=true&locale=en&layout=compact" alt="seyma-altiparmak" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seyma-altiparmak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://matchitplus.com"><img src="https://img.shields.io/badge/MatchIt%2B-App-E0457B?style=for-the-badge" alt="MatchIt+" /></a>
+  <a href="https://upigamestudio.com"><img src="https://img.shields.io/badge/UPI%20Games-Studio-7F5AF0?style=for-the-badge&logo=itchdotio&logoColor=white" alt="UPI Games" /></a>
+  <a href="https://store.steampowered.com/app/3875660/Tiny_Paws/"><img src="https://img.shields.io/badge/Steam-Games-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="mailto:seyma.ada.altiparmak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=seyma-altiparmak&color=7F5AF0&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyma-altiparmak&show_icons=true&locale=en" alt="seyma-altiparmak" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyma-altiparmak&" alt="seyma-altiparmak" /></p>
+## 🚀 About Me
+
+I'm a game developer who takes ideas all the way from a blank Unity project to a **live Steam release**, single-handedly. After graduating in Software Engineering I founded my own studio, **UPI Games**, and shipped two original titles in under a year, handling code, design, art and marketing myself.
+
+Alongside games, I'm an **MSc Computer Engineering student at Pamukkale University (GPA 3.69/4)**, and my AI research on dental X-ray analysis is published in **BMC Oral Health (SCI-E)**.
+
+- 🔭 Currently working on **[MatchIt+](https://matchitplus.com)**, a dating app where your friends can match you too
+- 🏆 **Founder & solo developer** at UPI Games, with 2 games on Steam
+- 🕹️ Industry experience at **HOGO Games**, **NeverEnding, Inc** (USA, *Interns Tech Lead*), **Syno Games**, **Vulpis**, **Avenpi** and **Teknoliva**
+- 🥽 Built **VirtuLearn Hub**, a VR training platform for nursing education, as a **TÜBİTAK 1001** scholar
+- 🌍 Winning project in the **GAMY Erasmus+ KA210** programme (*International Cities Revitalization*)
+- 🎤 Former **President & Vice President** of the Game Design and Development Club
+- 💬 Ask me about **Unity, C#, game design, VR and computer vision**
+- 📫 **seyma.ada.altiparmak@gmail.com**
+
+---
+
+## 🔭 Currently Working On
+
+<p align="center">
+  <a href="https://matchitplus.com"><img src="https://matchitplus.com/assets/img/og-tr.png" alt="MatchIt+" width="80%" /></a>
+</p>
+<p align="center">
+  <b>💜 MatchIt+</b>: a dating app where your friends can match you too. <i>Swipe for yourself, ship your friends.</i><br />
+  <a href="https://matchitplus.com"><img src="https://img.shields.io/badge/Visit-matchitplus.com-7F5AF0?style=flat-square" alt="matchitplus.com" /></a>
+</p>
+
+---
+
+## 🎮 My Games
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/3875660/Tiny_Paws/">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875660/b1aa623fe41b8f92fc944aac2d2ade2a3b50d1cf/header.jpg" alt="Tiny Paws" width="100%" />
+      </a>
+      <br /><b>🐾 Tiny Paws</b><br />
+      <sub>Early Access since Jan 2026 · <b>88% positive</b> reviews</sub><br />
+      <a href="https://store.steampowered.com/app/3875660/Tiny_Paws/"><img src="https://img.shields.io/badge/Wishlist%20on-Steam-171a21?style=flat-square&logo=steam" alt="Steam" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/4373560/But_Why_Penguin/">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373560/24f47242d1326a1a4fd434e9be252635ab4da70e/header.jpg" alt="But Why Penguin?" width="100%" />
+      </a>
+      <br /><b>🐧 But Why Penguin?</b><br />
+      <sub>Released March 2026</sub><br />
+      <a href="https://store.steampowered.com/app/4373560/But_Why_Penguin/"><img src="https://img.shields.io/badge/Play%20on-Steam-171a21?style=flat-square&logo=steam" alt="Steam" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Both games were designed, coded, illustrated and published by me.</i></p>
+
+---
+
+## 🔬 Research & Publications
+
+| | Publication |
+|---|---|
+| 📘 | **Keypoint-based detection of periodontal radiographic bone loss on bitewing radiographs using YOLO11-pose: a clinician-AI agreement study**<br /><sub><i>BMC Oral Health</i> (SCI-E), 2026 · <a href="https://doi.org/10.1186/s12903-026-09708-2">DOI</a></sub> |
+| 📗 | **Artificial Intelligence for Radiographic Assessment of Periodontal Bone Loss (2020–2025): A Bibliometric and Technical Mapping Analysis**<br /><sub><i>Türkiye Klinikleri Journal of Dental Sciences</i>, in press · <a href="https://doi.org/10.5336/dentalsci.2026-121558">DOI</a></sub> |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,python,opencv,tensorflow,blender,git,github&perline=9" alt="main skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,docker,aws,mongodb,flutter,figma,ps,ai&perline=10" alt="other tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seyma-altiparmak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyma-altiparmak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyma-altiparmak&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyma-altiparmak&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="footer" />
+</p>
