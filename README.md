@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://upigamestudio.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Currently+building+MatchIt%2B+💜;I+build+games+from+idea+to+Steam+release+🎮;2+solo-developed+games+published+on+Steam+🚀;88%25+positive+reviews+on+Tiny+Paws+⭐;Published+AI+researcher+in+medical+imaging+🔬;Unity+·+C%23+·+Python+·+Computer+Vision+·+VR" alt="Typing SVG" /></a>
+  <a href="https://upigamestudio.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Currently+building+MatchIt%2B;I+build+games+from+idea+to+Steam+release;2+solo-developed+games+published+on+Steam;88%25+positive+reviews+on+Tiny+Paws;Published+AI+researcher+in+medical+imaging;Unity+%C2%B7+C%23+%C2%B7+Python+%C2%B7+Computer+Vision+%C2%B7+VR" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
