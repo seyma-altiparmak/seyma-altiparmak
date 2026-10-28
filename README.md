@@ -95,8 +95,8 @@ Alongside games, I'm an **MSc Computer Engineering student at Pamukkale Universi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seyma-altiparmak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyma-altiparmak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seyma-altiparmak&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seyma-altiparmak&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Alongside games, I'm an **MSc Computer Engineering student at Pamukkale Universi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyma-altiparmak&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seyma-altiparmak&theme=tokyonight" alt="Activity graph" width="100%" />
 </p>
 
 <p align="center">
